@@ -1,0 +1,6 @@
+{
+  "name": "unwritten Studio",
+  "description": "Das offizielle Visual Studio für 'unwritten'. Generiere filmreife Origami-Videos und frage Kaspar Hauser nach ungeschriebenen Geschichten.",
+  "requestFramePermissions": [],
+  "prompt": "Generiere eine Origami-Szene im 'unwritten' Stil: Eine Glaskugel schwebt in einem Papierwald, realistische blaue Lichtreflexe."
+}
